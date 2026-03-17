@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "photos/index.html",
+    "href": "photos/index.html",
+    "title": "Photos",
+    "section": "",
+    "text": "Here are some photos of me!"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "My takeaways from the editorial:  “Moving to a World Beyond ’p < 0.05”",
+    "section": "",
+    "text": "As a first-year PhD student in Epidemiology and Biostatistics, I have read numerous epidemiological papers, most of which explain effect sizes as insignificant or more often, due to publication bias, as significant. The authors of the editorial, “Moving to a World Beyond ‘p &lt; 0.05’”, challenge this practice and they’re right to do so. Why are we basing the importance of research based on an arbitrary dichotomization of a measure. Why do we look at 0.051 and 0.049, two very similar numbers as meaningfully different in interpretation?\nThe editorial recommends ATOM: “Accept uncertainty. Be thoughtful, open, and modest.”, and makes several important points about p-values, a few of which I will discuss here. \nFor instance, the authors discuss how we use p-values to make definitive claims that an effect is significant or not. We need to be more open to uncertainty in our findings which in turn opens up room for improving our designs and analysis. I think we often want to publish a paper showing that we found an effect, but we need to be more open to admitting that we see an effect but we don’t know for certain that that effect truly exists and we need to explore it more. One paper showing a significant p-value is not enough to make a conclusion; we need to see results replicated. \nWe also need to think about how meaningful our results are, significant or not. We can use a p-value and say that we see a significant effect, but does a significant effect really matter if the effect size is not meaningful? As some authors argue, we need to first clarify what effect size is meaningful before we conduct a study and not base it off of what we find after conducting a study as this may include an overreliance on p-value instead of meaningful results. \nGoing off of this, the authors also discuss how when we look at p-values, we often see it as the most important part of our analysis and we think of other measures and implications as less important. Things like study design, analytic techniques, clinical importance, and confidence intervals take a backseat to p-values, whereas we could better understand an effect by looking more holistically. \nOverall, p-values can no longer be the most important thing we look at during analysis. Sure, we can consider it, but we definitely cannot dichotomize it to make a statement. \n\n\nReference:\nWasserstein, R. L., Schirm, A. L., & Lazar, N. A. (2019). Moving to a World Beyond “p &lt; 0.05.” The American Statistician, 73(sup1), 1–19. https://doi.org/10.1080/00031305.2019.1583913"
+  },
+  {
+    "objectID": "experience/index.html",
+    "href": "experience/index.html",
+    "title": "Experience",
+    "section": "",
+    "text": "A little about my experiences!\n\n\n\nDuring my undergrad at Pitt, I did research in Dr. Radha Gopal’s lab where I mostly performed wet lab procedures such as PCR, RNA extraction, cell treatment and genotyping to investigate the impact of influenza on heart disease. Here are two publications that I co-authored during my time there:\nhttps://www.nature.com/articles/s41598-024-61953-z\nhttps://academic.oup.com/jimmunol/advance-article/doi/10.1093/jimmun/vkaf276/8307038?login=false\nAfter that experience, I also worked in Dr. David Koes’ drug discovery lab where I investigated potential ligands to Glycine receptors for analgesia and compared them to THC. Here I worked with modeling and simulation tools, Linux, and Python for data analysis and visualization.\nDuring the summer of 2023, I was a recipient of a full scholarship to the NIAID funded Boston University Summer Institute for Research Education in Biostatistics and Data Science. Here, I trained in modules in biostatistics, epidemiology, clinical trials, statistical genetics, and infectious disease modeling and trained in SAS, R, and high-performance computing clusters. The program culminated in a collaborative research project and presentation analyzing a real Ukrainian tuberculosis dataset in R.\nAfter my undergrad, I took a gap year where I did research under Dr. Dennis Kostka. Here, I co-developed a method to estimate metabolic flux with scRNA-seq data using Pytorch to incorporate machine learning into our bioinformatics pipeline.\nNow, I hope to use my background in biostatistics, computer science, and biology to work in the fields of Epidemiology and Biostatistics and work on addressing public health issues."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHi! I’m Vennila Ramasubramanian and I am a first year Epidmemiology + Biostatistics PhD Student at Case Western Reserve University! I recently graduated from the University of Pittsburgh in 2024 with a B.S. in Computational Biology and a certificate in Global Health. During and after my PhD, I hope to use my computational skills to address public health problems!"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  }
+]
